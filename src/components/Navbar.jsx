@@ -5,7 +5,7 @@ const Navbar = () => {
   return (
     <nav className="flex justify-center items-center px-6 py-4 ">
      
-      <div className="flex space-x-4 border py-2 px-10 rounded-xl border-gray-700 fixed mt-10 backdrop-blur-md">
+      <div className="flex space-x-4 border py-2 px-10 rounded-xl border-gray-700 fixed mt-10 backdrop-blur-xd z-30">
        
         <a href="https://linkedin.com/in/aswinmfullstack"  target="_blank" className="hover:text-neutral-400 text-blue-400">
           <FaLinkedin size={24} />
